@@ -166,7 +166,7 @@ public class MySingleLinkedList {
         }
     }
     public static void main(String[] args) {
-    	System.out.println("test git.");
+    	System.out.println("test git ver3.");
 
         MySingleLinkedList list = new MySingleLinkedList();
         Scanner sc = new Scanner(System.in);
